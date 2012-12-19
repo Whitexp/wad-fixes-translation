@@ -17,7 +17,7 @@ $lang['AAVATAR'] = '
 <p>No momento a troca de imagens do seu avatar não esta disponível, estamos trabalhando na implementação dessa característica</p>';
 $lang['TAJOB'] = 'Como eu posso trabalhar no WadUthink?';
 $lang['AJOB'] = '
-<p>Estamos constantemente procurando pessoas para trabalha no wadUthink, caso esteja interessado, enviar um e-mail para<a href="mailto:jobs@waduthink.com">jobs@waduthink.com</a>
+<p>Estamos constantemente procurando pessoas para trabalhar no wadUthink, caso esteja interessado, enviar um e-mail para<a href="mailto:jobs@waduthink.com">jobs@waduthink.com</a>
 </p>';
 $lang['THOWREVIEW'] = 'Como eu faço uma avaliação?';
 $lang['HOWREVIEW'] = '
