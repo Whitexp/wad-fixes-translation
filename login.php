@@ -4,7 +4,7 @@
 Language: Portugues Brasil
 ------------------
 */
-$lang['INVALID'] = 'Nome de usuário ou senha inválida.<br/><br/>';
+$lang['INVALID'] = 'Nome de usuário ou senha inválido.<br/><br/>';
 $lang['RESETPASS'] = 'Redefinir a senha';
 $lang['FORGOT'] = '<br><a style="color:black;" href="https://waduthink.com/forgotpassword">Esqueceu sua senha?</a><br/><br/>';
 $lang['PASSSENT'] = 'Sua nova senha foi enviada para ';
