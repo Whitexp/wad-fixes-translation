@@ -50,4 +50,15 @@ $lang['TOTALREC'] = 'Total de recomendações';
 $lang['APPROVED'] = 'Aprovação';
 $lang['RECOMMENDATIONS'] = 'Recomendações';
 $lang['BYCOUNTRY'] = 'Por País ';
+$lang['BYMANUFAC'] = 'Por fabricante ';
+$lang['MANUFAC'] = 'Fabricante';
+$lang['LIST'] = 'lista';
+$lang['SUBMIT']='Enviar';
+$lang['RHELP']='Clique aqui para ajuda';
+$lang['EDIT']='Editar essa avaliação';
+$lang['REDIT']='Edição de avaliação';
+$lang['MTITLE']='Avalie sua vida';
+$lang['VIEWING']='Vendo avaliações de';
+$lang['ON']='no WadUthink.com';
+$lang['FROM']='da';
 ?>
