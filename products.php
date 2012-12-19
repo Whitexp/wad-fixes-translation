@@ -11,8 +11,8 @@ $lang['REPLY'] = 'Responder';
 $lang['REPORT'] = 'Reportar!';
 $lang['VIEWIMG'] = 'Ver Imagens';
 $lang['RTHIS'] = 'Avaliar';
-$lang['SLANG'] = 'Mostrar lingua';
+$lang['SLANG'] = 'Mostrar língua';
 $lang['SLANGALL'] = 'Todas';
-$lang['TWITTER'] = 'Vendo avaliacao em ';
+$lang['TWITTER'] = 'Vendo avaliacão em ';
 $lang['DETAILS'] = 'Detalhes';
 ?>
