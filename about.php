@@ -37,4 +37,16 @@ feedback@waduthink.com</a>
 		</p>';
 $lang['TAEXIST'] = 'O produto/local que eu quero avaliar não existe, o que fazer?';
 $lang['AEXIST'] = '
+<p>Se o produto ou local que você quer avaliar não existe, por favor digitar no campo de produto/local da pagina de avaliação o nome do produto,
+o mesmo será adicionado automaticamente no nosso banco de dados. Iremos colocar o produto na categoria correta e enviar as suas imagens.		
+</p>';
+$lang['TAIMAGE'] = 'Como eu envio a imagem do meu produto/local?';
+$lang['AIMAGE'] = '
+<p>No momento somente os funcionarios do wadUthink podem enviar imagens de produtos/locais para evitar envio de imagens protegidas e "trolling". 
+</p>';
+$lang['TAEDIT'] = 'Como eu edito as minhas avaliações?';
+$lang['AEDIT'] = '
+<p>Para editar as avaliações, entre na area de <a href="https://waduthink.com/mypage#reviews">avaliações</a> na <a href="https://waduthink.com/mypage">Minha Pagina</a>
+</p>';
+?>
 
