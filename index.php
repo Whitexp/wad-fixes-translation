@@ -4,7 +4,7 @@
 Language: Portugues Brasil
 ------------------
 */
-$lang['SLIDETI1'] = 'Bem vinda(o) ao WadUthink';
+$lang['SLIDETI1'] = 'Bem vindo(a) ao WadUthink';
 $lang['SLIDETI2'] = 'Sobre';
 $lang['SLIDETI3'] = 'WadUThink?';
 $lang['SLIDE1'] = 'O lugar onde você pode avaliar tudo!';
@@ -18,9 +18,9 @@ $lang['BESTREST'] = 'Melhor Restaurante';
 $lang['BESTBOOK'] = 'Melhor Livro';
 $lang['BESTSTORE'] = 'Melhor Loja online';
 $lang['BESTMOVIE'] = 'Melhor filme';
-$lang['PLVOTEDCOUNTRY'] = 'Local dos mês';
-$lang['PVOTEDCOUNTRY'] = 'Produto dos mês';
+$lang['PLVOTEDCOUNTRY'] = 'Local do mês';
+$lang['PVOTEDCOUNTRY'] = 'Produto do mês';
 $lang['VBYCOUNTRY'] = 'Veja mais - ';
 $lang['VBYCITY'] = '';
-$lang['COUNTRYSELECT'] = 'Mudar pais: ';
+$lang['COUNTRYSELECT'] = 'Mudar país: ';
 ?>
