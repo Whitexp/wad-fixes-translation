@@ -16,7 +16,7 @@ $lang['SERVICE'] = 'Serviços';
 $lang['PRODBOUGHT'] = 'Produto comprado em:';
 $lang['ADDRESS'] = 'Endereço';
 $lang['RTHIS'] = 'Avaliar';
-$lang['SLANG'] = 'Mostrar lingua';
+$lang['SLANG'] = 'Mostrar língua';
 $lang['SLANGALL'] = 'Todas';
 $lang['DETAILS'] = 'Detalhes';
 ?>
