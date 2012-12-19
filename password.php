@@ -5,5 +5,5 @@ Language: Portugues Brasil
 ------------------
 */
 $lang['PASSCHANGE'] = 'Alterar senha';
-$lang['PASSCHANGED'] = 'Senha alterada';
+$lang['PASSCHANGED'] = 'Senha alterada com sucesso';
 ?>
