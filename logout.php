@@ -4,6 +4,6 @@
 Language: Portugues
 ------------------
 */
-$lang['NLOGGED'] = 'Voce nao esta logado entao nao pode deslogar';
+$lang['NLOGGED'] = 'Você não esta logado então nao pode deslogar';
 $lang['GOODBYE'] = 'Ate logo';
 ?>
